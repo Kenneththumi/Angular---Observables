@@ -6,7 +6,7 @@ There is also the use of Subject which is a better alternative than the normal e
 ## Installation
 Below are steps to follow:
 1. Open cli, navigate to your project folder and clone the project: 
-    `git clone `
+    `git clone https://github.com/Kenneththumi/Angular---Observables.git`
 2. Install Node Modules:
     `npm install`
 3. Run:
